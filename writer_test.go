@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	cpio "github.com/cavaliercoder/go-cpio"
+	cpio "github.com/platinasystems/go-cpio"
 )
 
 func store(w *cpio.Writer, fn string) error {

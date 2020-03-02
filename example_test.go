@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/cavaliercoder/go-cpio"
+	"github.com/platinasystems/go-cpio"
 )
 
 func Example() {
